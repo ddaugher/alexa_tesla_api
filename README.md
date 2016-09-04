@@ -1,5 +1,4 @@
 # tesla
-[![wercker status](https://app.wercker.com/status/c8e21c53ed5763b0b58f763670753732/m "wercker status")](https://app.wercker.com/project/bykey/c8e21c53ed5763b0b58f763670753732)
 
 This library provides a wrapper around the API, allowing for easy query and command of the [Tesla Model S](https://www.teslamotors.com/models).
 
