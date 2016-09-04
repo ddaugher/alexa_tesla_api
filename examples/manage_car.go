@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jsgoecke/tesla"
+	"github.com/ddaugher/alexa_tesla_api"
 )
 
 func main() {
